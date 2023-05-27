@@ -1,0 +1,14 @@
+pwd
+
+ls 
+
+cd
+
+touch
+
+mkdir 
+
+ls -l
+
+add - add .
+
